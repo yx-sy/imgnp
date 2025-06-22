@@ -2,4 +2,4 @@
 > https://raw.githubusercontent.com/yx-sy/imgnp/main/logo/{name}.png
 > 
 ### 加速调用：
-> https://ghp.ci/https://raw.githubusercontent.com/yx-sy/imgnp/main/logo/{name}.png
+> https://goppx.com/https://raw.githubusercontent.com/yx-sy/imgnp/main/logo/{name}.png
